@@ -11,4 +11,4 @@ To run the code, please execute the script `main.m` with Matlab.
 `b.mat`, `Wfea.mat` and `template.mat` are temporal filter, spatial filter, and brain signal template, respectively.
 
 ## License
-This code repository is covered under the Apache 2.0 License.
+This code repository is covered under the **Apache 2.0** License.
